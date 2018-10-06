@@ -1,0 +1,61 @@
+
+body{
+    background-image: url("background.jpg");
+    background-size:cover;
+
+}
+p {
+    text-align: center;
+    margin: auto;
+    font-size: 80px;
+    font-family: 'Shadows Into Light', cursive;
+}
+h4{
+    text-align: center;
+    margin: auto;
+}
+#result{
+    text-align: center;
+    margin: auto;
+}
+#button{
+    text-align: center;
+    margin: auto;
+}
+.start{
+    border-radius: 50%;
+}
+table{
+    margin-left: 35%;
+    width: 500px;
+    height:400px;
+    border-collapse: separate;
+    border-spacing:0;
+    border: none;
+}
+tr{
+    margin:0;
+    border-spacing:0;
+    padding:0;
+}
+td{
+    margin:0;
+    padding:0;
+}
+
+.img{
+    width:50px;
+    height:50px;
+    padding:0;
+}
+
+/*remove the gap*/
+.table.div{
+	width:50px;
+    height:50px;
+}
+
+#result{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 30px;
+}
